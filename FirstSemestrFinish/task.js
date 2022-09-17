@@ -1,4 +1,3 @@
-
 function getThreeSymbolString(array){
     let newArray = [];
     let i = 0;
